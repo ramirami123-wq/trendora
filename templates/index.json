@@ -1,1 +1,656 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slide-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/ASDSD.png","image_position":"center center","text_box_position":"bottom-right","subheading":"","subheading_size":"h5","heading":"","heading_size":"h0","heading_tag":"h2","text":"","text_size":"typeset2","button_label":"","button_link":"","button_size":"medium","button_style_secondary":false}}},"block_order":["slide-2"],"settings":{"slideshow_type":"legacy","text_alignment":"left","image_ratio":"100vh","autorotate":false,"autorotate_speed":5,"full_width":true,"image_behavior":"none","mobile_text_alignment":"left","mobile_image_ratio":"adapt_first","show_text_below":false,"colors_button_label":"#1a1b18","colors_button_background":"#ffffff","colors_text":"#ffffff","colors_background":"#ffffff","colors_overlay":"#1a1b18","colors_overlay_opacity":16,"colors_navigation_text":"#ffffff","colors_navigation_background":"#1a1b18","padding_top":0,"padding_bottom":36}},"featured_product_RCYCaB":{"type":"featured-product","blocks":{"title_7PbUaC":{"type":"title","settings":{"title_size":"h2","title_tag":"h2","show_price":false,"price_size":"medium"}},"rating_AN8Hkq":{"type":"rating","settings":{}},"price_7c3cKU":{"type":"price","settings":{"price_size":"medium","show_badges":true,"sale_badge_basis":"percentage"}},"custom_liquid_9wDUPc":{"type":"custom_liquid","settings":{"custom_liquid":"<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable<\/span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating<\/span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings<\/span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results<\/span> –  Glides gently through hair for a sleek, shiny finish.\n\n<\/div>"}},"variant_picker_txHV9a":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatches_source":"file","swatch_type":"round","enable_swatch_cross":true,"enable_swatch_unavailable_click":false,"size_chart":""}},"buy_buttons_jtWcw8":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false,"show_gift_card_recipient":false}}},"block_order":["title_7PbUaC","rating_AN8Hkq","price_7c3cKU","custom_liquid_9wDUPc","variant_picker_txHV9a","buy_buttons_jtWcw8"],"name":"t:sections.featured-product.presets.name","settings":{"product":"markiti-wireless-hair-straightener-brush","layout":"media_first","full_width":false,"show_divider":false,"show_featured_media":false,"hide_variants":false,"enable_image_zoom":false,"enable_video_looping":false,"image_ratio":"adapt_first","image_position":"center center","enable_layered_images":false,"padding_top":36,"padding_bottom":36}},"scrolling_promotion_gqQrxK":{"type":"scrolling-promotion","blocks":{"announcement_V6HCmb":{"type":"announcement","settings":{"icon":"none","icon_size":"medium","custom_icon":"","text":"MARKITI","text_size":20,"link":""}}},"block_order":["announcement_V6HCmb"],"name":"t:sections.scrolling-promotion.presets.name","settings":{"direction":"left","speed":1.6,"show_divider":false,"use_custom_colors":true,"colors_icon":"#ffffff","colors_text":"#ffffff","colors_background":"#189ddd","gradient_background":"","padding_top":20,"padding_bottom":20}},"rich_text_iPTEGL":{"type":"rich-text","blocks":{"heading_NEyD4Q":{"type":"heading","settings":{"heading":"AT MARKITI","heading_size":"h1","heading_tag":"h2"}},"text_z3jQfd":{"type":"text","settings":{"text":"<p>We believe great hair should be effortless — anytime, anywhere. Our mission is to create innovative, high-quality styling tools that fit modern, on-the-go lifestyles. We combine advanced technology, sleek design, and reliable performance to help you look and feel your best without the hassle of cords or complicated routines.<\/p><p>Focused on convenience, portability, and salon-quality results, our products are designed for busy mornings, travel days, and everything in between. With Couture Hair Pro, smooth, beautiful hair is always within reach.<\/p>","text_size":"typeset2","secondary_color":false,"highlight_phrases":"","highlight_style":"marker"}}},"block_order":["heading_NEyD4Q","text_z3jQfd"],"name":"t:sections.rich-text.presets.name","settings":{"text_alignment":"left","mobile_text_alignment":"left","horizontal_content":false,"narrow":false,"show_divider":false,"use_custom_colors":false,"colors_button_label":"#ffffff","colors_button_background":"#1a1b18","colors_text":"#212326","colors_background":"#ffffff","colors_highlight":"#bbff00","gradient_background":"","padding_top":36,"padding_bottom":36}},"scrolling_promotion_yJEgih":{"type":"scrolling-promotion","blocks":{"announcement_pGUAFw":{"type":"announcement","settings":{"icon":"none","icon_size":"medium","custom_icon":"","text":"WELCOME TO MARKITI","text_size":20,"link":""}}},"block_order":["announcement_pGUAFw"],"name":"t:sections.scrolling-promotion.presets.name","settings":{"direction":"left","speed":1.6,"show_divider":false,"use_custom_colors":true,"colors_icon":"#ffffff","colors_text":"#ffffff","colors_background":"#189ddd","gradient_background":"","padding_top":20,"padding_bottom":20}},"faq_VkHiGm":{"type":"faq","blocks":{"question_yNkDQY":{"type":"question","settings":{"title":"How long does the battery last","text":"<p>The built-in 9600mAh battery provides multiple styling sessions on a full charge, depending on the heat setting and hair type<\/p>"}},"question_YmRBPG":{"type":"question","settings":{"title":"How long does it take to heat up?","text":"<p>The brush heats up quickly in just a few minutes, so you can start styling almost immediately.<\/p>"}},"question_9WMfD8":{"type":"question","settings":{"title":"Can it be used on all hair types?","text":"<p>Yes! It features multiple heat settings suitable for fine, thick, curly, and color-treated hair<\/p>"}},"question_8XRAQn":{"type":"question","settings":{"title":"Will it damage my hair?","text":"<p>The ceramic heating technology distributes heat evenly to help reduce frizz, pulling, and breakage when used correctly.<\/p>"}}},"block_order":["question_yNkDQY","question_YmRBPG","question_9WMfD8","question_8XRAQn"],"name":"t:sections.faq.presets.name","settings":{"narrow":false,"secondary_background":false,"show_divider":false,"heading":"FAQs","heading_size":"h1","heading_alignment":"left","heading_tag":"h2","padding_top":36,"padding_bottom":36}},"testimonials_RAYR9d":{"type":"testimonials","blocks":{"testimonial_9JpcWx":{"type":"testimonial","settings":{"icon":"5","text":"<p><strong>“Perfect for on-the-go styling!”<\/strong><br\/><br\/>I keep this in my handbag and use it for quick touch-ups during the day. It heats up fast and leaves my hair smooth and shiny in minutes.<br\/><br\/><\/p>","author":""}},"testimonial_d4hHY3":{"type":"testimonial","settings":{"icon":"5","text":"<p><strong>So convenient and easy to use”<\/strong><br\/><br\/>It works just like a normal brush but straightens at the same time. No cords, no hassle — a total time saver for busy mornings.<br\/><\/p>","author":""}},"testimonial_tDhrLc":{"type":"testimonial","settings":{"icon":"5","text":"<p><strong>“Smooth results without pulling”<\/strong><br\/><br\/>The brush glides through my hair easily and doesn’t snag or break strands. My hair looks soft, sleek, and polished after one pass.<br\/><br\/><\/p>","author":""}},"testimonial_afFAK4":{"type":"testimonial","settings":{"icon":"5","text":"<p><strong>“Quick fix tool”<\/strong><br\/><br\/>Not meant to replace a full salon straightener, but amazing for refreshing your hair during the day or before going out.<br\/><br\/><\/p>","author":""}},"testimonial_hLfD6X":{"type":"testimonial","settings":{"icon":"5","text":"<p>Lightweight and easy to hold. I wish the cord was a little longer though.<\/p>","author":"Author"}},"testimonial_rcYE8C":{"type":"testimonial","settings":{"icon":"5","text":"<p>My hair looks shiny and less frizzy after using this. Totally worth it.<\/p>","author":""}},"testimonial_BwmGc6":{"type":"testimonial","settings":{"icon":"5","text":"<p>Works okay on my wavy hair but struggles with thicker sections.<\/p>","author":""}},"testimonial_ff9i4d":{"type":"testimonial","settings":{"icon":"5","text":"<p>Love the temperature display — makes it easy to control the heat.<\/p>","author":"Author"}},"testimonial_WKEpEP":{"type":"testimonial","settings":{"icon":"5","text":"<p>Doesn’t burn my scalp like a flat iron sometimes does. Much safer to use.<\/p>","author":""}}},"block_order":["testimonial_9JpcWx","testimonial_d4hHY3","testimonial_tDhrLc","testimonial_afFAK4","testimonial_hLfD6X","testimonial_rcYE8C","testimonial_BwmGc6","testimonial_ff9i4d","testimonial_WKEpEP"],"name":"t:sections.testimonials.presets.name","settings":{"autorotate":false,"autorotate_speed":5,"hide_images":true,"show_divider":false,"heading":"Testimonials","heading_size":"h1","heading_alignment":"center","heading_tag":"h2","padding_top":36,"padding_bottom":36}}},"order":["slideshow","featured_product_RCYCaB","scrolling_promotion_gqQrxK","rich_text_iPTEGL","scrolling_promotion_yJEgih","faq_VkHiGm","testimonials_RAYR9d"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "text_box_position": "bottom-right",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "",
+            "text_size": "typeset2",
+            "button_label": "",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "slide-2"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "100vh",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "image_behavior": "none",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt_first",
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 16,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured_product_RCYCaB": {
+      "type": "featured-product",
+      "blocks": {
+        "title_7PbUaC": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "title_tag": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "rating_AN8Hkq": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price_7c3cKU": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true,
+            "sale_badge_basis": "percentage"
+          }
+        },
+        "custom_liquid_9wDUPc": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+          }
+        },
+        "variant_picker_txHV9a": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatches_source": "file",
+            "swatch_type": "round",
+            "enable_swatch_cross": true,
+            "enable_swatch_unavailable_click": false,
+            "size_chart": ""
+          }
+        },
+        "buy_buttons_jtWcw8": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        }
+      },
+      "block_order": [
+        "title_7PbUaC",
+        "rating_AN8Hkq",
+        "price_7c3cKU",
+        "custom_liquid_9wDUPc",
+        "variant_picker_txHV9a",
+        "buy_buttons_jtWcw8"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "markiti-wireless-hair-straightener-brush",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "show_featured_media": false,
+        "hide_variants": false,
+        "enable_image_zoom": false,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_gqQrxK": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_V6HCmb": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "MARKITI",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_V6HCmb"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#189ddd",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_iPTEGL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_NEyD4Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "AT MARKITI",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_z3jQfd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe great hair should be effortless — anytime, anywhere. Our mission is to create innovative, high-quality styling tools that fit modern, on-the-go lifestyles. We combine advanced technology, sleek design, and reliable performance to help you look and feel your best without the hassle of cords or complicated routines.</p><p>Focused on convenience, portability, and salon-quality results, our products are designed for busy mornings, travel days, and everything in between. With Couture Hair Pro, smooth, beautiful hair is always within reach.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "highlight_phrases": "",
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NEyD4Q",
+        "text_z3jQfd"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_yJEgih": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_pGUAFw": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "WELCOME TO MARKITI",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_pGUAFw"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#189ddd",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "faq_VkHiGm": {
+      "type": "faq",
+      "blocks": {
+        "question_yNkDQY": {
+          "type": "question",
+          "settings": {
+            "title": "How long does the battery last",
+            "text": "<p>The built-in 9600mAh battery provides multiple styling sessions on a full charge, depending on the heat setting and hair type</p>"
+          }
+        },
+        "question_YmRBPG": {
+          "type": "question",
+          "settings": {
+            "title": "How long does it take to heat up?",
+            "text": "<p>The brush heats up quickly in just a few minutes, so you can start styling almost immediately.</p>"
+          }
+        },
+        "question_9WMfD8": {
+          "type": "question",
+          "settings": {
+            "title": "Can it be used on all hair types?",
+            "text": "<p>Yes! It features multiple heat settings suitable for fine, thick, curly, and color-treated hair</p>"
+          }
+        },
+        "question_8XRAQn": {
+          "type": "question",
+          "settings": {
+            "title": "Will it damage my hair?",
+            "text": "<p>The ceramic heating technology distributes heat evenly to help reduce frizz, pulling, and breakage when used correctly.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_yNkDQY",
+        "question_YmRBPG",
+        "question_9WMfD8",
+        "question_8XRAQn"
+      ],
+      "name": "t:sections.faq.presets.name",
+      "settings": {
+        "narrow": false,
+        "secondary_background": false,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials_RAYR9d": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9JpcWx": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Perfect for on-the-go styling!”</strong><br/><br/>I keep this in my handbag and use it for quick touch-ups during the day. It heats up fast and leaves my hair smooth and shiny in minutes.<br/><br/></p>",
+            "author": ""
+          }
+        },
+        "testimonial_d4hHY3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>So convenient and easy to use”</strong><br/><br/>It works just like a normal brush but straightens at the same time. No cords, no hassle — a total time saver for busy mornings.<br/></p>",
+            "author": ""
+          }
+        },
+        "testimonial_tDhrLc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Smooth results without pulling”</strong><br/><br/>The brush glides through my hair easily and doesn’t snag or break strands. My hair looks soft, sleek, and polished after one pass.<br/><br/></p>",
+            "author": ""
+          }
+        },
+        "testimonial_afFAK4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Quick fix tool”</strong><br/><br/>Not meant to replace a full salon straightener, but amazing for refreshing your hair during the day or before going out.<br/><br/></p>",
+            "author": ""
+          }
+        },
+        "testimonial_hLfD6X": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Lightweight and easy to hold. I wish the cord was a little longer though.</p>",
+            "author": "Author"
+          }
+        },
+        "testimonial_rcYE8C": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My hair looks shiny and less frizzy after using this. Totally worth it.</p>",
+            "author": ""
+          }
+        },
+        "testimonial_BwmGc6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Works okay on my wavy hair but struggles with thicker sections.</p>",
+            "author": ""
+          }
+        },
+        "testimonial_ff9i4d": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Love the temperature display — makes it easy to control the heat.</p>",
+            "author": "Author"
+          }
+        },
+        "testimonial_WKEpEP": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Doesn’t burn my scalp like a flat iron sometimes does. Much safer to use.</p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9JpcWx",
+        "testimonial_d4hHY3",
+        "testimonial_tDhrLc",
+        "testimonial_afFAK4",
+        "testimonial_hLfD6X",
+        "testimonial_rcYE8C",
+        "testimonial_BwmGc6",
+        "testimonial_ff9i4d",
+        "testimonial_WKEpEP"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "comparesection_ehaWGF": {
+      "type": "comparesection",
+      "blocks": {
+        "list_item_LzLM4X": {
+          "type": "list_item",
+          "settings": {
+            "text": "Fall asleep quicker"
+          }
+        },
+        "list_item_KLBHgd": {
+          "type": "list_item",
+          "settings": {
+            "text": "Relax & Restorative sleep"
+          }
+        },
+        "list_item_Gr9PVA": {
+          "type": "list_item",
+          "settings": {
+            "text": "Wake up refreshed"
+          }
+        },
+        "list_item_wn9AYf": {
+          "type": "list_item",
+          "settings": {
+            "text": "Plant based"
+          }
+        },
+        "table_row_gWnNdc": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Optimized Dosing",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_8XTp7K": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Plant Based",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_fCK3bV": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Low Sugar",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_nMmJyf": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Simple Ingredients",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_bbX3VC": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "3rd Party Tested",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_TNHyXB": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Delicious Taste",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_LzLM4X",
+        "list_item_KLBHgd",
+        "list_item_Gr9PVA",
+        "list_item_wn9AYf",
+        "table_row_gWnNdc",
+        "table_row_8XTp7K",
+        "table_row_fCK3bV",
+        "table_row_nMmJyf",
+        "table_row_bbX3VC",
+        "table_row_TNHyXB"
+      ],
+      "name": "SS - Comparison Table #6",
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p><em>US</em> <strong>vs Other Brands</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "text": "<p>We pride ourselves in our quality and focus on sleep, we cannot say the same for others.</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 4,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "josefin_sans_n4",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "TRY DEEP DREAMS",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 2,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "SECTION STORE",
+        "second_heading": "Other Brands",
+        "third_heading": "Third",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#000000",
+        "text_color": "#000000",
+        "icon_color": "#000000",
+        "list_text_color": "#000000",
+        "button_color": "#FFFFFF",
+        "button_hover_color": "#dad0ff",
+        "button_bg_color": "#16142B",
+        "button_bg_hover_color": "#16142B",
+        "button_border_color": "#16142B",
+        "button_border_hover_color": "#16142B",
+        "table_border_color": "#2D2B43",
+        "table_active_border_color": "#DAD0FF",
+        "table_heading_color": "#1A192E",
+        "table_heading_active_color": "#FFFFFF",
+        "table_heading_bg_active_color": "#2D2B43",
+        "table_column_active_bg_color": "#2D2B43",
+        "table_row_heading_color": "#1A192E",
+        "table_row_text_color": "#1A192E",
+        "table_row_active_text_color": "#FFFFFF",
+        "background_color": "#F6F3FF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_product_RCYCaB",
+    "scrolling_promotion_gqQrxK",
+    "rich_text_iPTEGL",
+    "scrolling_promotion_yJEgih",
+    "faq_VkHiGm",
+    "testimonials_RAYR9d",
+    "comparesection_ehaWGF"
+  ]
+}
