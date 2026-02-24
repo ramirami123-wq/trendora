@@ -85,7 +85,7 @@
         "custom_liquid_9wDUPc": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"padding: 12px; text-align: left; background-color: #f9f9f9; font-size: 15px; border-radius: 12px; margin-top: 10px; margin-bottom: 10px; line-height: 1.6;\">\n\n<span style=\"font-weight: bold;\">✨ Cordless & Rechargeable</span> – Style your hair anywhere without needing an outlet.<br><br>\n\n<span style=\"font-weight: bold;\">🔥 Fast, Even Heating</span> –  Advanced ceramic technology smooths hair quickly with less frizz.<br><br>\n\n<span style=\"font-weight: bold;\">🌡️ Adjustable Heat Settings</span> – Suitable for fine, thick, curly, or treated hair.<br><br>\n\n<span style=\"font-weight: bold;\">💫 Smooth, Tangle-Free Results</span> –  Glides gently through hair for a sleek, shiny finish.\n\n</div>"
+            "custom_liquid": "<ul style=\"list-style: none; padding: 0; margin: 0;\">\n  <li style=\"margin-bottom: 12px;\">✨ Overnight Hydration — Deeply moisturizes skin while you sleep</li>\n  <li style=\"margin-bottom: 12px;\">💧 Moisture Lock Wrap — Forms a breathable layer to seal in nutrients</li>\n  <li style=\"margin-bottom: 12px;\">🌙 Elasticity Support — Helps skin feel firmer and more supple by morning</li>\n  <li style=\"margin-bottom: 12px;\">💫 Smooth, Radiant Skin — Wake up to softer, healthier-looking skin</li>\n</ul>"
           }
         },
         "variant_picker_txHV9a": {
@@ -527,107 +527,6 @@
         "padding_bottom": 36
       }
     },
-    "testimonials_RAYR9d": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_9JpcWx": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My skin feels so soft and hydrated in the morning. Love it<br/></p>",
-            "author": ""
-          }
-        },
-        "testimonial_d4hHY3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>“Super easy to use and gives a healthy glow overnight.”<br/></p>",
-            "author": ""
-          }
-        },
-        "testimonial_tDhrLc": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p><strong>“Smooth results without pulling”</strong><br/><br/>The brush glides through my hair easily and doesn’t snag or break strands. My hair looks soft, sleek, and polished after one pass.<br/><br/></p>",
-            "author": ""
-          }
-        },
-        "testimonial_afFAK4": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p><strong>“Quick fix tool”</strong><br/><br/>Not meant to replace a full salon straightener, but amazing for refreshing your hair during the day or before going out.<br/><br/></p>",
-            "author": ""
-          }
-        },
-        "testimonial_hLfD6X": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Lightweight and easy to hold. I wish the cord was a little longer though.</p>",
-            "author": "Author"
-          }
-        },
-        "testimonial_rcYE8C": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>My hair looks shiny and less frizzy after using this. Totally worth it.</p>",
-            "author": ""
-          }
-        },
-        "testimonial_BwmGc6": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Works okay on my wavy hair but struggles with thicker sections.</p>",
-            "author": ""
-          }
-        },
-        "testimonial_ff9i4d": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Love the temperature display — makes it easy to control the heat.</p>",
-            "author": "Author"
-          }
-        },
-        "testimonial_WKEpEP": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Doesn’t burn my scalp like a flat iron sometimes does. Much safer to use.</p>",
-            "author": ""
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_9JpcWx",
-        "testimonial_d4hHY3",
-        "testimonial_tDhrLc",
-        "testimonial_afFAK4",
-        "testimonial_hLfD6X",
-        "testimonial_rcYE8C",
-        "testimonial_BwmGc6",
-        "testimonial_ff9i4d",
-        "testimonial_WKEpEP"
-      ],
-      "name": "t:sections.testimonials.presets.name",
-      "settings": {
-        "autorotate": false,
-        "autorotate_speed": 5,
-        "hide_images": true,
-        "show_divider": false,
-        "heading": "Testimonials",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "heading_tag": "h2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ss_Kt6p3X": {
       "type": "ss",
       "blocks": {
@@ -711,6 +610,89 @@
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5
       }
+    },
+    "testimonials_RAYR9d": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_9JpcWx": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>My skin feels so soft and hydrated in the morning. Love it<br/></p>",
+            "author": ""
+          }
+        },
+        "testimonial_d4hHY3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“Super easy to use and gives a healthy glow overnight.”<br/></p>",
+            "author": ""
+          }
+        },
+        "testimonial_tDhrLc": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“Not sticky at all — my skin looks smoother after one use.”</p>",
+            "author": ""
+          }
+        },
+        "testimonial_afFAK4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“Perfect for dry skin. I wake up with plump, refreshed skin.”</p>",
+            "author": ""
+          }
+        },
+        "testimonial_hLfD6X": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“Feels lightweight but works amazingly. Highly recommend!”</p>",
+            "author": "Author"
+          }
+        },
+        "testimonial_rcYE8C": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“My skin looked brighter and smoother after just one night.”</p>",
+            "author": ""
+          }
+        },
+        "testimonial_BwmGc6": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“Helped my dry patches so much. Skin feels baby soft.”</p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_9JpcWx",
+        "testimonial_d4hHY3",
+        "testimonial_tDhrLc",
+        "testimonial_afFAK4",
+        "testimonial_hLfD6X",
+        "testimonial_rcYE8C",
+        "testimonial_BwmGc6"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -721,7 +703,7 @@
     "scrolling_promotion_yJEgih",
     "comparesection_ehaWGF",
     "faq_VkHiGm",
-    "testimonials_RAYR9d",
-    "ss_Kt6p3X"
+    "ss_Kt6p3X",
+    "testimonials_RAYR9d"
   ]
 }
