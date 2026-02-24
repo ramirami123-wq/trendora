@@ -144,7 +144,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "MARKITI",
+            "text": "TRENDORA",
             "text_size": 20,
             "link": ""
           }
@@ -173,7 +173,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT MARKITI",
+            "heading": "ABOUT TRENDORA",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -181,7 +181,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe great hair should be effortless — anytime, anywhere. Our mission is to create innovative, high-quality styling tools that fit modern, on-the-go lifestyles. We combine advanced technology, sleek design, and reliable performance to help you look and feel your best without the hassle of cords or complicated routines.</p><p>Focused on convenience, portability, and salon-quality results, our products are designed for busy mornings, travel days, and everything in between. With Couture Hair Pro, smooth, beautiful hair is always within reach.</p>",
+            "text": "<p>TRENDORA brings you innovative K-Beauty skincare designed to work while you sleep. Our overnight formulas deeply hydrate, support skin elasticity, and improve texture by locking in moisture with a lightweight, breathable wrap. Wake up to smoother, healthier, radiant skin — effortlessly.</p><p><strong>Sleep well. Wake radiant.</strong> </p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -220,7 +220,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO MARKITI",
+            "text": "WELCOME TO TRENDORA",
             "text_size": 20,
             "link": ""
           }
@@ -243,35 +243,268 @@
         "padding_bottom": 20
       }
     },
+    "comparesection_ehaWGF": {
+      "type": "comparesection",
+      "blocks": {
+        "list_item_LzLM4X": {
+          "type": "list_item",
+          "settings": {
+            "text": "Fall asleep quicker"
+          }
+        },
+        "list_item_KLBHgd": {
+          "type": "list_item",
+          "settings": {
+            "text": "Relax & Restorative sleep"
+          }
+        },
+        "list_item_Gr9PVA": {
+          "type": "list_item",
+          "settings": {
+            "text": "Wake up refreshed"
+          }
+        },
+        "list_item_wn9AYf": {
+          "type": "list_item",
+          "settings": {
+            "text": "Plant based"
+          }
+        },
+        "table_row_8XTp7K": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Improved Elasticity",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_fCK3bV": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Smoother Texture",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_nMmJyf": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Overnight Repair",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_bbX3VC": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Radiant Glow",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_TNHyXB": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Moisture Lock",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "list_item_LzLM4X",
+        "list_item_KLBHgd",
+        "list_item_Gr9PVA",
+        "list_item_wn9AYf",
+        "table_row_8XTp7K",
+        "table_row_fCK3bV",
+        "table_row_nMmJyf",
+        "table_row_bbX3VC",
+        "table_row_TNHyXB"
+      ],
+      "name": "SS - Comparison Table #6",
+      "settings": {
+        "body_gap": 32,
+        "body_gap_mobile": 32,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "center",
+        "heading": "<p><strong>OUR BRAND</strong> vs Other Brands</p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "text": "<p>Experience the transformation your skin deserves. Our advanced formula delivers visible results from day one, revealing noticeably softer, smoother skin with a refined texture that keeps improving with every use.</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 18,
+        "text_size_mobile": 18,
+        "text_height": 150,
+        "text_mt": 4,
+        "list_mt": 50,
+        "list_mt_mobile": 32,
+        "list_gap": 30,
+        "list_gap_mobile": 30,
+        "list_hide_mobile": true,
+        "icon_size": 28,
+        "icon_size_mobile": 28,
+        "icon_margin_right": 16,
+        "list_text_custom": false,
+        "list_text_font": "josefin_sans_n4",
+        "list_text_size": 20,
+        "list_text_size_mobile": 18,
+        "list_text_height": 150,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 18,
+        "button_size_mobile": 18,
+        "button_height": 100,
+        "button_width": 305,
+        "button_mt": 50,
+        "button_mt_mobile": 32,
+        "button_padding_vertical": 16,
+        "button_padding_vertical_mobile": 16,
+        "button_padding_horizontal": 48,
+        "button_padding_horizontal_mobile": 48,
+        "button_radius": 100,
+        "button_border_thickness": 0,
+        "button_style": "non_outline",
+        "button_position_mobile": "bottom",
+        "table_columns": 2,
+        "table_mt_mobile": 32,
+        "table_column_active": "1",
+        "table_radius": 16,
+        "table_border_thickness": 1,
+        "table_heading_image_size": 100,
+        "table_heading_image_size_mobile": 80,
+        "first_heading": "OUR BRAND",
+        "second_heading": "OUR BRAND",
+        "third_heading": "Third",
+        "four_heading": "Fourth",
+        "table_heading_custom": false,
+        "table_heading_font": "assistant_n4",
+        "table_heading_size": 20,
+        "table_heading_size_mobile": 16,
+        "table_heading_height": 100,
+        "table_heading_align": "center",
+        "table_heading_padding_horizontal": 18,
+        "table_heading_padding_horizontal_mobile": 18,
+        "table_heading_padding_vertical": 18,
+        "table_heading_padding_vertical_mobile": 18,
+        "table_row_padding_horizontal": 14,
+        "table_row_padding_horizontal_mobile": 14,
+        "table_row_padding_vertical": 16,
+        "table_row_padding_vertical_mobile": 16,
+        "table_row_heading_width_mobile": 66,
+        "table_row_heading_custom": false,
+        "table_row_heading_font": "assistant_n4",
+        "table_row_heading_size": 16,
+        "table_row_heading_size_mobile": 16,
+        "table_row_heading_height": 130,
+        "table_row_heading_align": "left",
+        "table_row_text_custom": false,
+        "table_row_text_font": "assistant_n4",
+        "table_row_text_size": 20,
+        "table_row_text_size_mobile": 16,
+        "table_row_text_height": 130,
+        "table_row_text_align": "center",
+        "table_row_image_size": 24,
+        "table_row_image_size_mobile": 24,
+        "heading_color": "#16142b",
+        "text_color": "#16142b",
+        "icon_color": "#000000",
+        "list_text_color": "#16142b",
+        "button_color": "#ffffff",
+        "button_hover_color": "#dad0ff",
+        "button_bg_color": "#16142b",
+        "button_bg_hover_color": "#16142b",
+        "button_border_color": "#16142b",
+        "button_border_hover_color": "#16142b",
+        "table_border_color": "#2d2b43",
+        "table_active_border_color": "#dad0ff",
+        "table_heading_color": "#1a192e",
+        "table_heading_active_color": "#ffffff",
+        "table_heading_bg_active_color": "#2d2b43",
+        "table_column_active_bg_color": "#2d2b43",
+        "table_row_heading_color": "#1a192e",
+        "table_row_text_color": "#1a192e",
+        "table_row_active_text_color": "#ffffff",
+        "background_color": "#f6f3ff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 130,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "faq_VkHiGm": {
       "type": "faq",
       "blocks": {
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "How long does the battery last",
-            "text": "<p>The built-in 9600mAh battery provides multiple styling sessions on a full charge, depending on the heat setting and hair type</p>"
+            "title": "What does the Collagen Night Wrapping Mask do?",
+            "text": "<p>It deeply hydrates, supports skin elasticity, and improves texture overnight while you sleep.</p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "How long does it take to heat up?",
-            "text": "<p>The brush heats up quickly in just a few minutes, so you can start styling almost immediately.</p>"
+            "title": "Is it suitable for all skin types?",
+            "text": "<p>Yes, it is designed to be gentle and suitable for most skin types, including dry and sensitive skin.</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Can it be used on all hair types?",
-            "text": "<p>Yes! It features multiple heat settings suitable for fine, thick, curly, and color-treated hair</p>"
+            "title": "Will it feel heavy or sticky?",
+            "text": "<p>No, it forms a lightweight, breathable layer that locks in moisture without clogging pores.</p>"
           }
         },
         "question_8XRAQn": {
           "type": "question",
           "settings": {
-            "title": "Will it damage my hair?",
-            "text": "<p>The ceramic heating technology distributes heat evenly to help reduce frizz, pulling, and breakage when used correctly.</p>"
+            "title": "When will I see results?",
+            "text": "<p>Many users notice softer, smoother skin after the first use, with improved texture over time.</p>"
           }
         }
       },
@@ -301,7 +534,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p><strong>“Perfect for on-the-go styling!”</strong><br/><br/>I keep this in my handbag and use it for quick touch-ups during the day. It heats up fast and leaves my hair smooth and shiny in minutes.<br/><br/></p>",
+            "text": "<p>My skin feels so soft and hydrated in the morning. Love it<br/></p>",
             "author": ""
           }
         },
@@ -309,7 +542,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p><strong>So convenient and easy to use”</strong><br/><br/>It works just like a normal brush but straightens at the same time. No cords, no hassle — a total time saver for busy mornings.<br/></p>",
+            "text": "<p>“Super easy to use and gives a healthy glow overnight.”<br/></p>",
             "author": ""
           }
         },
@@ -395,261 +628,13 @@
         "padding_bottom": 36
       }
     },
-    "comparesection_ehaWGF": {
-      "type": "comparesection",
-      "blocks": {
-        "list_item_LzLM4X": {
-          "type": "list_item",
-          "settings": {
-            "text": "Fall asleep quicker"
-          }
-        },
-        "list_item_KLBHgd": {
-          "type": "list_item",
-          "settings": {
-            "text": "Relax & Restorative sleep"
-          }
-        },
-        "list_item_Gr9PVA": {
-          "type": "list_item",
-          "settings": {
-            "text": "Wake up refreshed"
-          }
-        },
-        "list_item_wn9AYf": {
-          "type": "list_item",
-          "settings": {
-            "text": "Plant based"
-          }
-        },
-        "table_row_gWnNdc": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Optimized Dosing",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_8XTp7K": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Plant Based",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_fCK3bV": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Low Sugar",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_nMmJyf": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Simple Ingredients",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_bbX3VC": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "3rd Party Tested",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_TNHyXB": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Delicious Taste",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "list_item_LzLM4X",
-        "list_item_KLBHgd",
-        "list_item_Gr9PVA",
-        "list_item_wn9AYf",
-        "table_row_gWnNdc",
-        "table_row_8XTp7K",
-        "table_row_fCK3bV",
-        "table_row_nMmJyf",
-        "table_row_bbX3VC",
-        "table_row_TNHyXB"
-      ],
-      "name": "SS - Comparison Table #6",
-      "settings": {
-        "body_gap": 32,
-        "body_gap_mobile": 32,
-        "content_horizontal_align": "start",
-        "content_horizontal_align_mobile": "center",
-        "heading": "<p><em>US</em> <strong>vs Other Brands</strong></p>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 52,
-        "heading_size_mobile": 32,
-        "heading_height": 150,
-        "text": "<p>We pride ourselves in our quality and focus on sleep, we cannot say the same for others.</p>",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 18,
-        "text_size_mobile": 18,
-        "text_height": 150,
-        "text_mt": 4,
-        "list_mt": 50,
-        "list_mt_mobile": 32,
-        "list_gap": 30,
-        "list_gap_mobile": 30,
-        "list_hide_mobile": true,
-        "icon_size": 28,
-        "icon_size_mobile": 28,
-        "icon_margin_right": 16,
-        "list_text_custom": false,
-        "list_text_font": "josefin_sans_n4",
-        "list_text_size": 20,
-        "list_text_size_mobile": 18,
-        "list_text_height": 150,
-        "button": "TRY DEEP DREAMS",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 18,
-        "button_size_mobile": 18,
-        "button_height": 100,
-        "button_width": 305,
-        "button_mt": 50,
-        "button_mt_mobile": 32,
-        "button_padding_vertical": 16,
-        "button_padding_vertical_mobile": 16,
-        "button_padding_horizontal": 48,
-        "button_padding_horizontal_mobile": 48,
-        "button_radius": 100,
-        "button_border_thickness": 0,
-        "button_style": "non_outline",
-        "button_position_mobile": "bottom",
-        "table_columns": 2,
-        "table_mt_mobile": 32,
-        "table_column_active": "1",
-        "table_radius": 16,
-        "table_border_thickness": 1,
-        "table_heading_image_size": 100,
-        "table_heading_image_size_mobile": 80,
-        "first_heading": "SECTION STORE",
-        "second_heading": "Other Brands",
-        "third_heading": "Third",
-        "four_heading": "Fourth",
-        "table_heading_custom": false,
-        "table_heading_font": "assistant_n4",
-        "table_heading_size": 20,
-        "table_heading_size_mobile": 16,
-        "table_heading_height": 100,
-        "table_heading_align": "center",
-        "table_heading_padding_horizontal": 18,
-        "table_heading_padding_horizontal_mobile": 18,
-        "table_heading_padding_vertical": 18,
-        "table_heading_padding_vertical_mobile": 18,
-        "table_row_padding_horizontal": 14,
-        "table_row_padding_horizontal_mobile": 14,
-        "table_row_padding_vertical": 16,
-        "table_row_padding_vertical_mobile": 16,
-        "table_row_heading_width_mobile": 66,
-        "table_row_heading_custom": false,
-        "table_row_heading_font": "assistant_n4",
-        "table_row_heading_size": 16,
-        "table_row_heading_size_mobile": 16,
-        "table_row_heading_height": 130,
-        "table_row_heading_align": "left",
-        "table_row_text_custom": false,
-        "table_row_text_font": "assistant_n4",
-        "table_row_text_size": 20,
-        "table_row_text_size_mobile": 16,
-        "table_row_text_height": 130,
-        "table_row_text_align": "center",
-        "table_row_image_size": 24,
-        "table_row_image_size_mobile": 24,
-        "heading_color": "#000000",
-        "text_color": "#000000",
-        "icon_color": "#000000",
-        "list_text_color": "#000000",
-        "button_color": "#ffffff",
-        "button_hover_color": "#dad0ff",
-        "button_bg_color": "#16142b",
-        "button_bg_hover_color": "#16142b",
-        "button_border_color": "#16142b",
-        "button_border_hover_color": "#16142b",
-        "table_border_color": "#2d2b43",
-        "table_active_border_color": "#dad0ff",
-        "table_heading_color": "#1a192e",
-        "table_heading_active_color": "#ffffff",
-        "table_heading_bg_active_color": "#2d2b43",
-        "table_column_active_bg_color": "#2d2b43",
-        "table_row_heading_color": "#1a192e",
-        "table_row_text_color": "#1a192e",
-        "table_row_active_text_color": "#ffffff",
-        "background_color": "#f6f3ff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 72,
-        "padding_bottom": 72,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 130,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "ss_Kt6p3X": {
       "type": "ss",
       "blocks": {
         "text_qtHXr3": {
           "type": "text",
           "settings": {
-            "heading": "100%",
+            "heading": "99%",
             "heading_custom": false,
             "heading_font": "assistant_n4",
             "heading_size": 120,
@@ -660,7 +645,7 @@
             "heading_outline_thickness": 1,
             "number_animation": false,
             "number_duration": 3,
-            "sub_heading": "Text about your amazing influence feature",
+            "sub_heading": "Satisfaction Rate",
             "sub_heading_custom": false,
             "sub_heading_font": "assistant_n4",
             "sub_heading_size": 26,
@@ -734,9 +719,9 @@
     "scrolling_promotion_gqQrxK",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
+    "comparesection_ehaWGF",
     "faq_VkHiGm",
     "testimonials_RAYR9d",
-    "comparesection_ehaWGF",
     "ss_Kt6p3X"
   ]
 }
