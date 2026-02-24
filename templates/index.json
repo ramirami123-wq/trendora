@@ -15,6 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_1899_-_Ali_Al_Hassan.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-right",
             "subheading": "",
