@@ -46,6 +46,7 @@
     "header": {
       "type": "header",
       "settings": {
+        "logo": "shopify://shop_images/IMG_1899_-_Ali_Al_Hassan-removebg-preview.png",
         "logo_height": 50,
         "mobile_logo_height": 50,
         "logo_position": "top-center",
