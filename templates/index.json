@@ -243,37 +243,37 @@
         "padding_bottom": 20
       }
     },
-    "comparesection_ehaWGF": {
+    "comparesection_VA7FEF": {
       "type": "comparesection",
       "blocks": {
-        "list_item_LzLM4X": {
+        "list_item_yyjVWc": {
           "type": "list_item",
           "settings": {
             "text": "Fall asleep quicker"
           }
         },
-        "list_item_KLBHgd": {
+        "list_item_dgJHKC": {
           "type": "list_item",
           "settings": {
             "text": "Relax & Restorative sleep"
           }
         },
-        "list_item_Gr9PVA": {
+        "list_item_8hyGW7": {
           "type": "list_item",
           "settings": {
             "text": "Wake up refreshed"
           }
         },
-        "list_item_wn9AYf": {
+        "list_item_TJHcyX": {
           "type": "list_item",
           "settings": {
             "text": "Plant based"
           }
         },
-        "table_row_8XTp7K": {
+        "table_row_7X6HDh": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Improved Elasticity",
+            "row_heading": "“Hydrates deeply without clogging pores.”",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -284,10 +284,10 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_fCK3bV": {
+        "table_row_Vx6x7q": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Smoother Texture",
+            "row_heading": "Plant Based",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -298,10 +298,10 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_nMmJyf": {
+        "table_row_VXLiR7": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Overnight Repair",
+            "row_heading": "Low Sugar",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -312,10 +312,10 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_bbX3VC": {
+        "table_row_G8Aq8m": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Radiant Glow",
+            "row_heading": "Simple Ingredients",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -326,10 +326,24 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_TNHyXB": {
+        "table_row_ih8gHw": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Moisture Lock",
+            "row_heading": "3rd Party Tested",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_wBgkph": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Delicious Taste",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -342,15 +356,16 @@
         }
       },
       "block_order": [
-        "list_item_LzLM4X",
-        "list_item_KLBHgd",
-        "list_item_Gr9PVA",
-        "list_item_wn9AYf",
-        "table_row_8XTp7K",
-        "table_row_fCK3bV",
-        "table_row_nMmJyf",
-        "table_row_bbX3VC",
-        "table_row_TNHyXB"
+        "list_item_yyjVWc",
+        "list_item_dgJHKC",
+        "list_item_8hyGW7",
+        "list_item_TJHcyX",
+        "table_row_7X6HDh",
+        "table_row_Vx6x7q",
+        "table_row_VXLiR7",
+        "table_row_G8Aq8m",
+        "table_row_ih8gHw",
+        "table_row_wBgkph"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
@@ -358,13 +373,13 @@
         "body_gap_mobile": 32,
         "content_horizontal_align": "start",
         "content_horizontal_align_mobile": "center",
-        "heading": "<p><strong>OUR BRAND</strong> vs Other Brands</p>",
+        "heading": "<p><em>US</em> <strong>vs Other Brands</strong></p>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 52,
         "heading_size_mobile": 32,
         "heading_height": 150,
-        "text": "<p>Experience the transformation your skin deserves. Our advanced formula delivers visible results from day one, revealing noticeably softer, smoother skin with a refined texture that keeps improving with every use.</p>",
+        "text": "<p><strong>“Hydrates deeply without clogging pores.”</strong></p><p></p>",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
         "text_size": 18,
@@ -409,8 +424,8 @@
         "table_border_thickness": 1,
         "table_heading_image_size": 100,
         "table_heading_image_size_mobile": 80,
-        "first_heading": "OUR BRAND",
-        "second_heading": "OTHER BRANDS",
+        "first_heading": "US",
+        "second_heading": "Other Brands",
         "third_heading": "Third",
         "four_heading": "Fourth",
         "table_heading_custom": false,
@@ -442,26 +457,26 @@
         "table_row_text_align": "center",
         "table_row_image_size": 24,
         "table_row_image_size_mobile": 24,
-        "heading_color": "#16142b",
-        "text_color": "#16142b",
+        "heading_color": "#000000",
+        "text_color": "#000000",
         "icon_color": "#000000",
-        "list_text_color": "#16142b",
-        "button_color": "#ffffff",
+        "list_text_color": "#000000",
+        "button_color": "#FFFFFF",
         "button_hover_color": "#dad0ff",
-        "button_bg_color": "#16142b",
-        "button_bg_hover_color": "#16142b",
-        "button_border_color": "#16142b",
-        "button_border_hover_color": "#16142b",
-        "table_border_color": "#212326",
-        "table_active_border_color": "#1a1b18",
-        "table_heading_color": "#212326",
-        "table_heading_active_color": "#ffffff",
+        "button_bg_color": "#16142B",
+        "button_bg_hover_color": "#16142B",
+        "button_border_color": "#16142B",
+        "button_border_hover_color": "#16142B",
+        "table_border_color": "#2D2B43",
+        "table_active_border_color": "#212326",
+        "table_heading_color": "#1a1b18",
+        "table_heading_active_color": "#212326",
         "table_heading_bg_active_color": "#fad9d4",
         "table_column_active_bg_color": "#fad9d4",
-        "table_row_heading_color": "#1a192e",
-        "table_row_text_color": "#1a192e",
-        "table_row_active_text_color": "#212326",
-        "background_color": "#f6f3ff",
+        "table_row_heading_color": "#212326",
+        "table_row_text_color": "#212326",
+        "table_row_active_text_color": "#FFFFFF",
+        "background_color": "#F6F3FF",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -701,7 +716,7 @@
     "scrolling_promotion_gqQrxK",
     "rich_text_iPTEGL",
     "scrolling_promotion_yJEgih",
-    "comparesection_ehaWGF",
+    "comparesection_VA7FEF",
     "faq_VkHiGm",
     "ss_Kt6p3X",
     "testimonials_RAYR9d"
