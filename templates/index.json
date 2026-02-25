@@ -273,7 +273,7 @@
         "table_row_7X6HDh": {
           "type": "table_row",
           "settings": {
-            "row_heading": "“Hydrates deeply without clogging pores.”",
+            "row_heading": "Improved Elasticity",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -287,7 +287,7 @@
         "table_row_Vx6x7q": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Plant Based",
+            "row_heading": "Smoother Texture",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -301,7 +301,7 @@
         "table_row_VXLiR7": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Low Sugar",
+            "row_heading": "Overnight Repair",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -315,7 +315,7 @@
         "table_row_G8Aq8m": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Simple Ingredients",
+            "row_heading": "Radiant Glow",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -329,21 +329,7 @@
         "table_row_ih8gHw": {
           "type": "table_row",
           "settings": {
-            "row_heading": "3rd Party Tested",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_wBgkph": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Delicious Taste",
+            "row_heading": "Moisture Lock",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -364,8 +350,7 @@
         "table_row_Vx6x7q",
         "table_row_VXLiR7",
         "table_row_G8Aq8m",
-        "table_row_ih8gHw",
-        "table_row_wBgkph"
+        "table_row_ih8gHw"
       ],
       "name": "SS - Comparison Table #6",
       "settings": {
