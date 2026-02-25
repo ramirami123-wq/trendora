@@ -223,6 +223,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/Medicube-Collagen-Night-Wrapping-Mask-6_2d07b2bc-d080-4242-b59f-70dcdbe55c79.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -305,6 +306,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
+        "image": "shopify://shop_images/MedicubeCollagenNightWrappingMask_800x_794e0a6d-3521-4a2f-8609-c8ac61666f32.webp",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -487,6 +489,89 @@
         "padding_bottom": 36
       }
     },
+    "testimonials_c7Upgg": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_ngfpWA": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>“I wake up with my skin feeling super hydrated and fresh.”</p>",
+            "author": ""
+          }
+        },
+        "testimonial_xL4UNU": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Gives a beautiful glow without any irritation.”</strong></p>",
+            "author": ""
+          }
+        },
+        "testimonial_NHPPd9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“My skin feels firmer and smoother in the morning.\"</strong></p>",
+            "author": ""
+          }
+        },
+        "testimonial_QjHk9X": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Perfect for tired, dull skin — huge difference overnight.\"</strong></p>",
+            "author": ""
+          }
+        },
+        "testimonial_8CETXj": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Very soothing and comfortable to wear all night.”</strong></p>",
+            "author": ""
+          }
+        },
+        "testimonial_CLMP9G": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“My makeup looks better the next day after using this.”</strong></p>",
+            "author": ""
+          }
+        },
+        "testimonial_7Jhnd9": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p><strong>“Hydrates deeply without clogging pores.”</strong></p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_ngfpWA",
+        "testimonial_xL4UNU",
+        "testimonial_NHPPd9",
+        "testimonial_QjHk9X",
+        "testimonial_8CETXj",
+        "testimonial_CLMP9G",
+        "testimonial_7Jhnd9"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "hide_images": true,
+        "show_divider": false,
+        "heading": "Testimonials",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1771945068374140eb": {
       "type": "apps",
       "settings": {
@@ -566,6 +651,7 @@
     "17718508649b1c6768",
     "1771931222846ebc40",
     "faq_YDJ73w",
+    "testimonials_c7Upgg",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
